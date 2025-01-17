@@ -14,7 +14,7 @@ const swiper = new Swiper('.mySwiper', {
 
 // JavaScript pro záložky
 const tabList = document.querySelector('.tab-list');
-const tabContent = document.qquerySelector('.tab-content');
+const tabContent = document.querySelector('.tab-content');
 
 tabList.addEventListener('click', (event) => {
     if (event.target.tagName === 'LI') {
