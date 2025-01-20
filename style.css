@@ -226,7 +226,7 @@ header {
             font-weight: 700;
         }
         .list {
-            max-width: 508x;
+            max-width: 508px;
             display: flex;
             flex-direction: column;
             text-align: left;
